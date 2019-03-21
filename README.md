@@ -1,2 +1,2 @@
 # Exercise-1
-A Final Project from Javascript Course Part 1
+An Exercise Project from Javascript Course Part 1
